@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "097d9eb6-4ac5-483e-826a-882af1be7c2e": {
+      "ProjectGuid": "097d9eb6-4ac5-483e-826a-882af1be7c2e",
+      "DisplayName": "MaxLab",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3d60ea5a-677e-4264-ba8f-03aadf384f64": {
+      "ProjectGuid": "3d60ea5a-677e-4264-ba8f-03aadf384f64",
+      "DisplayName": "OmegaTree",
+      "ColorIndex": 1
+    },
+    "848a1953-ec42-4d58-a8cf-c3e210b0a5ad": {
+      "ProjectGuid": "848a1953-ec42-4d58-a8cf-c3e210b0a5ad",
+      "DisplayName": "Treell",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
